@@ -1,3 +1,2 @@
 # hello_world
-CS50 Work
-Just all the stuff I am working on through cs50
+Just all the stuff I am doing through cs50. Completely new to coding and excited to get started.
